@@ -71,4 +71,4 @@ vim.o.scrolloff = 10
 -- See `:help 'confirm'`
 vim.o.confirm = true
 
--- vim: ts=2 sts=2 sw=2 et
+--git@github.com:scheemized/kickstart.nvim.git vim: ts=2 sts=2 sw=2 et
